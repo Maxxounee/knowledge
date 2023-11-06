@@ -1,1 +1,1 @@
-# knowlege
+# knowledge
